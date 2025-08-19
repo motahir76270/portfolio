@@ -9,6 +9,7 @@ const Footer = () => {
       section.scrollIntoView({ behavior: "smooth" });
     }
   };
+  
 
   return (
     <footer className="bg-[#050414] text-white py-8 px-[12vw] md:px-[7vw] lg:px-[10vw]">
