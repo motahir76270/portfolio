@@ -55,6 +55,7 @@ import psdMager from './assets/work_logo/pwdManger.png'
 import expo from './assets/tech_logo/expo.png'
 import musicplyaer from './assets/work_logo/musi-plyaer.png'
 import bank from './assets/work_logo/bank.png'
+import tictac from './assets/work_logo/tictac.png'
 
 
 
@@ -229,18 +230,28 @@ export const SkillsInfo = [
       github: "https://github.com/Tushar96152/techcodebank-frontend",
       webapp: "",
     },
-    {
+      {
       id: 2,
-      title: "Password Manager App ",
+      title: "Bank Management System",
       description:
-        "A productivity-boosting Chrome extension designed to help users manage and remember their daily tasks. Built using JavaScript, it offers a simple interface with reminders and task notifications to keep users on track.",
-      image: psdMager,
-      tags: ["React Js", "TalWind CSS", "MongoDB"],
-      github: "https://github.com/motahir76270/manage-password",
-      webapp: "https://manage-password-two.vercel.app/",
+        "An efficient and customizable NPM package for validating email addresses. Built using React.js and Node.js, it provides robust validation features to help developers ensure that email inputs meet required formats and standards.",
+         image: bank,
+      tags: ["React JS","Talwind CSS", "Api", "NPM", "Validation"],
+      github: "https://github.com/Tushar96152/techcodebank-frontend",
+      webapp: "",
     },
     {
       id: 3,
+      title: "Tic Tac Toe (Game)",
+      description:
+        "A game of tic tac toe game. using techonogy reactjs , talwind CSS ",
+      image: tictac,
+      tags: ["React Js", "TalWind CSS", ],
+      github: "https://github.com/motahir76270/tic-tac-toe",
+      webapp: "https://tic-tac-toe-nine-chi-28.vercel.app/",
+    },
+    {
+      id: 4,
       title: "iChat(Real Time Chat Application)",
       description:
         "The official website for Webverse Digital, a creative digital marketing agency. Built using HTML, CSS, and JavaScript, it features visually appealing animations and a clean design to showcase the agency's services.",
