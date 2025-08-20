@@ -186,7 +186,7 @@ export const SkillsInfo = [
       school: "jaipur Engireenig College, Jaipur",
       date: "Sept 2023 - July 2027",
       grade: "8.81 CGPA",
-      desc: "I have completed my bacholor degree (B.tech) in Computer Science And Engineering from jaipur Engineering College, Jaipur. During my time at Jec, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development,App Development and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at GLA University has been instrumental in shaping my technical abilities and professional growth.",
+      desc: "I have completed my bacholor degree (B.tech) in Computer Science And Engineering from jaipur Engineering College, Jaipur. During my time at Jec, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development,App Development and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at RTU University has been instrumental in shaping my technical abilities and professional growth.",
       degree: "B.tech in computer Science and Engineering",
     },
     {
@@ -224,7 +224,7 @@ export const SkillsInfo = [
       id: 1,
       title: "Bank Management System",
       description:
-        "An efficient and customizable NPM package for validating email addresses. Built using React.js and Node.js, it provides robust validation features to help developers ensure that email inputs meet required formats and standards.",
+        "Bank Management System is a robust application built to automate essential banking functions, featuring intuitive modules for account creation, deposits, withdrawals, balance inquiries, transaction history, and account closure; it also includes administrative capabilities for managing customer records and optional services like loans or insurance—this modular design ensures clear separation of roles and streamlined user interaction.",
          image: bank,
       tags: ["React JS","Talwind CSS", "Api", "NPM", "Validation"],
       github: "https://github.com/Tushar96152/techcodebank-frontend",
@@ -232,19 +232,19 @@ export const SkillsInfo = [
     },
       {
       id: 2,
-      title: "Bank Management System",
+      title: "Password Menager System",
       description:
         "An efficient and customizable NPM package for validating email addresses. Built using React.js and Node.js, it provides robust validation features to help developers ensure that email inputs meet required formats and standards.",
-         image: bank,
-      tags: ["React JS","Talwind CSS", "Api", "NPM", "Validation"],
-      github: "https://github.com/Tushar96152/techcodebank-frontend",
-      webapp: "",
+        image: psdMager,
+      tags: ["React JS","Talwind CSS"],
+        github: "https://github.com/motahir76270/manage-password",
+        webapp: "https://manage-password-two.vercel.app/",
     },
     {
       id: 3,
       title: "Tic Tac Toe (Game)",
       description:
-        "A game of tic tac toe game. using techonogy reactjs , talwind CSS ",
+        "Tic-Tac-Toe by [Tahir] is a clean and interactive 3×3 game crafted with React and styled using the utility-first Tailwind CSS framework. The game features a responsive grid of square components where players alternate turns between “X” and “O.” ",
       image: tictac,
       tags: ["React Js", "TalWind CSS", ],
       github: "https://github.com/motahir76270/tic-tac-toe",
@@ -254,9 +254,9 @@ export const SkillsInfo = [
       id: 4,
       title: "iChat(Real Time Chat Application)",
       description:
-        "The official website for Webverse Digital, a creative digital marketing agency. Built using HTML, CSS, and JavaScript, it features visually appealing animations and a clean design to showcase the agency's services.",
+        "iChat is a dynamic real-time chat application built using modern web technologies like Node.js and Socket.io, designed to facilitate seamless, instant messaging without needing to reload the page—much like WhatsApp in terms of user experience. It supports simultaneous communication between multiple users and notifies participants when others join or send messages, creating a fluid, real-time conversation flow",
       image: webverLogo,
-      tags: ["HTML", "CSS", "JavaScript", "React JS" ,"Material UI" , "Talwind CSS" , "Node JS" ,"Express JS" , "MongoDB" , "Authentication" ,"Authorization" ],
+      tags: ["HTML", "CSS", "JavaScript", "React JS" ,"Material UI" , "Talwind CSS" , "Node JS" ,"Express JS" , "MongoDB" , "Authentication" ,"Authorization" , "context Api" ],
       github: "https://github.com/motahir76270/ichat",
       webapp: "https://ichat-b691.onrender.com/",
     },

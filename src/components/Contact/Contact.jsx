@@ -40,18 +40,20 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_jws3ff1",  // Replace with your EmailJS Service ID
-        "template_1ziboq3",  // Replace with your EmailJS Template ID
+        "service_7s8pf3d",  // Replace with your EmailJS Service ID
+        "template_v758hn5",  // Replace with your EmailJS Template ID
         form.current,
-        "template_sg3bl6d"  // Replace with your EmailJS Public Key
+        "fs26vGbqPjxcVrzo7"  // Replace with your EmailJS Public Key
       )
+      toast.success("message Send successfully")
+      form.current=""
   };
 
   return (
     <section
       id="contact"
       className="flex flex-col items-center justify-center py-24 px-[12vw] md:px-[7vw] lg:px-[10vw]"
-    >
+    > 
       {/* Toast Container */}
       <ToastContainer />
 
