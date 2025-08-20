@@ -218,7 +218,7 @@ export const SkillsInfo = [
       image: musicplyaer,
       tags: ["HTML", "CSS", "JavaScript"],
       github: "https://github.com/motahir76270/music-player-fun12",
-      webapp: "https://spotify-b8c9.onrender.com/",
+      webapp: "",
     },
        {
       id: 1,
@@ -248,7 +248,7 @@ export const SkillsInfo = [
       image: tictac,
       tags: ["React Js", "TalWind CSS", ],
       github: "https://github.com/motahir76270/tic-tac-toe",
-      webapp: "https://tic-tac-toe-nine-chi-28.vercel.app/",
+      webapp: "https://tic-tac-toe-qkx9.onrender.com/",
     },
     {
       id: 4,
