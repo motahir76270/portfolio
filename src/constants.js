@@ -30,6 +30,7 @@ import figmaLogo from './assets/tech_logo/figma.png';
 import netlifyLogo from './assets/tech_logo/netlify.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
 import JEClogo from './assets/education_logo/JEClogo.jpg'
+import ProfilePro from './assets/work_logo/profilePro.png'
 
 // Experience Section Logo's
 import webverseLogo from './assets/company_logo/webverse_logo.png';
@@ -250,8 +251,18 @@ export const SkillsInfo = [
       github: "https://github.com/motahir76270/tic-tac-toe",
       webapp: "https://tic-tac-toe-qkx9.onrender.com/",
     },
-    {
+        {
       id: 4,
+      title: "Profile Management",
+      description:
+        "It is profile Management system which to easily create or maintain your profile. Form to create  your profile",
+      image: ProfilePro,
+      tags: ["React Js", "TalWind CSS","Node Js", "Express Js", "MongoDB" ,"Material UI" ],
+      github: "https://github.com/motahir76270/Profile_Manager",
+      webapp: "https://profile-manager-tawny.vercel.app",
+    },
+    {
+      id: 5,
       title: "iChat(Real Time Chat Application)",
       description:
         "iChat is a dynamic real-time chat application built using modern web technologies like Node.js and Socket.io, designed to facilitate seamless, instant messaging without needing to reload the page—much like WhatsApp in terms of user experience. It supports simultaneous communication between multiple users and notifies participants when others join or send messages, creating a fluid, real-time conversation flow",
